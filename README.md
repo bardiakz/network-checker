@@ -1,6 +1,8 @@
 
 # Network Checker - Set of network tools curated for Iran Internet situation.
 
+Available for Android, Windows and Linux.
+
 <h4>Download</h4>  
 
 <a href="https://github.com/mirarr-app/network-checker/releases"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="200"></a> 
@@ -32,5 +34,10 @@
 
 ## Features
 
+### Domain Checker
+Scan most visited domains to check which ones are accessible. With the ability to add custom ones!
+
+### DNS Latency Test
+Latency test famous DNS providers. Inspired by [DNS-XS](https://github.com/code3-dev/DNS-XS)
 
 
