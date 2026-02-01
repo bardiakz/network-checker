@@ -6,7 +6,7 @@
 <a href="https://github.com/mirarr-app/network-checker/releases"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="200"></a> 
 
 
-## Screenshots
+## Desktop Screenshots
 
 |                     Domain Checker                      |                     DNS Latency Test                      |
 | :--------------------------------------------------: | :------------------------------------------------------: |
